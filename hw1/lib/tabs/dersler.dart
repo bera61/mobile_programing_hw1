@@ -8,7 +8,7 @@ class dersler extends StatelessWidget {
     return Container(
         child: const Center(
           child: Text(
-            '',
+            'Dersler sayfası',
             style: TextStyle(fontSize: 24),
           ),
         ),
